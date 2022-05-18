@@ -7,13 +7,11 @@ Repositório criado para detalhar os passos do curso prático de bioinformática
 
 ## Sinopse
 
-> O Sequenciamento de Nova Geração (NGS) tem possibilitado uma produção sem precedentes de dados genéticos. A análise subsequente desses dados, em busca de variantes genéticas que possam estar associadas a determinado fenótipo, é um importante passo para novas alternativas de diagnóstico e tratamento personalizado de pacientes. Este minicurso visa introduzir como é feito o tratamento dos dados de NGS advindos de DNA humano por meio de ferramentas de bioinformática, passando pelas etapas de análise de qualidade, alinhamento, chamada e anotação de variantes.
-
-* [Link para os slides](https://docs.google.com/presentation/d/1phNV2TlAfsjnXjuIhgQECl7-0eciM_wOLi-l-Qfx1a0/edit#slide=id.g3a46271903_0_313)
+O Sequenciamento de Nova Geração (NGS) tem possibilitado uma produção sem precedentes de dados genéticos. A análise subsequente desses dados, em busca de variantes genéticas que possam estar associadas a determinado fenótipo, é um importante passo para novas alternativas de diagnóstico e tratamento personalizado de pacientes. Este minicurso visa introduzir como é feito o tratamento dos dados de NGS advindos de DNA humano por meio de ferramentas de bioinformática, passando pelas etapas de análise de qualidade, alinhamento, chamada e anotação de variantes.
 
 ## Sobre o Varsomics
 
-![genomika-hiae](https://image-store.slidesharecdn.com/2e4dfba0-74ad-4ea6-9fe4-388de0ec294b-original.jpeg)
+![Varsomics]([https://image-store.slidesharecdn.com/2e4dfba0-74ad-4ea6-9fe4-388de0ec294b-original.jpeg](https://varsomics.com/?utm_term=varsomics&utm_campaign=%5BS%5D%20Institucional%20-%20BR&utm_source=adwords&utm_medium=ppc&hsa_acc=8786973005&hsa_cam=10265274196&hsa_grp=126042524043&hsa_ad=543302875654&hsa_src=g&hsa_tgt=kwd-1645495574761&hsa_kw=varsomics&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQjwspKUBhCvARIsAB2IYutVy_0hZtjL1yuOAXf26QN1akv4dVIJd8xpaaej0QDQ_oOOV3dOAroaAgz9EALw_wcB)
 
 ## Como instalar o git
 
