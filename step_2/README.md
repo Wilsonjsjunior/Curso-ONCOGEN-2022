@@ -12,15 +12,15 @@ apt-get install fastqc
 Entre na pasta `step_2` crie os diretórios e rode o comando abaixo
 
 ```bash
-$ mkdir FASTQC cutadapt
-$ fastqc ../../00_dados/510-7-BRCA_S8_L001_R1_001.fastq.gz --nogroup -o ./
-$ fastqc ../../00_dados/510-7-BRCA_S8_L001_R2_001.fastq.gz --nogroup -o ./
+mkdir FASTQC cutadapt
+fastqc ../../00_dados/510-7-BRCA_S8_L001_R1_001.fastq.gz --nogroup -o ./
+fastqc ../../00_dados/510-7-BRCA_S8_L001_R2_001.fastq.gz --nogroup -o ./
 ```
 
 > Dúvidas sobre os argumentos usados, use o comando abaixo:
 
 ```
-$ fastqc --help
+fastqc --help
 ```
 
 **Caso a qualidade não esteja boa, use alguma das opções indicadas nos slides. No nosso caso não é preciso, mas abaixo temos um exemplo de comando para para o `cutadapt` excluindo reads no final da sequência com phred score abaixo de 20.**
