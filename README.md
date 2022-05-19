@@ -54,7 +54,7 @@ dodocker build -t oncogene -f dockerfile .
 Vá para o diretório do repositório do curso, e depois crie um container com a imagem baixada, utilizando o seguinte comando:
 
 ```bash
-docker container run --rm -it -v $(pwd):/curso-genomika-snnb/snnbcourse wildergalvao/gnmk-snnb
+docker container run --rm -it -v $(pwd):/oncogene/ oncogene
 ```
 
 No final, será criado um container com todos os softwares necessários para a execução prática do curso já instalados.
