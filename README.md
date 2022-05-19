@@ -2,7 +2,7 @@
 
 Repositório criado para detalhar os passos do curso prático de bioinformática que será ministrado no ONCOGENE 2022.
 
-# Minicurso: Bioinformática aplicada a medicina de proceisão
+# Minicurso: Bioinformática aplicada a medicina de precisão
 
 * Curso organizado para o Seminário de ocongenética do Nordeste [Oncogene](https://sis.automacaodeeventos.com.br/2022/Oncogene/sis/inscricao/index.asp)
 
