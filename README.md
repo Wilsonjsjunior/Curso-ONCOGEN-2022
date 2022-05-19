@@ -12,7 +12,7 @@ O Sequenciamento de Nova Geração (NGS) tem possibilitado uma produção sem pr
 
 ## Sobre o Varsomics
 
-[Varsomics]([https://image-store.slidesharecdn.com/2e4dfba0-74ad-4ea6-9fe4-388de0ec294b-original.jpeg](https://varsomics.com/?utm_term=varsomics&utm_campaign=%5BS%5D%20Institucional%20-%20BR&utm_source=adwords&utm_medium=ppc&hsa_acc=8786973005&hsa_cam=10265274196&hsa_grp=126042524043&hsa_ad=543302875654&hsa_src=g&hsa_tgt=kwd-1645495574761&hsa_kw=varsomics&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQjwspKUBhCvARIsAB2IYutVy_0hZtjL1yuOAXf26QN1akv4dVIJd8xpaaej0QDQ_oOOV3dOAroaAgz9EALw_wcB)
+[Varsomics](https://varsomics.com/?utm_term=varsomics&utm_campaign=%5BS%5D%20Institucional%20-%20BR&utm_source=adwords&utm_medium=ppc&hsa_acc=8786973005&hsa_cam=10265274196&hsa_grp=126042524043&hsa_ad=564215390300&hsa_src=g&hsa_tgt=kwd-1645495574761&hsa_kw=varsomics&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQjw1ZeUBhDyARIsAOzAqQLucNwQBkF93CoQrUkZTBIncPy85H5eAlx41uK79qX7vaNNNOvKgokaAo_FEALw_wcB)
 
 ## Como instalar o git
 
