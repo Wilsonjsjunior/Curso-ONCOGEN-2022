@@ -19,7 +19,8 @@ RUN apt-get update -y && apt-get install -y \
     bedtools \
     freebayes \
     cutadapt \
-    zip
+    zip \
+    python3-setuptools
 
 # Install snpEff
 RUN wget https://snpeff.blob.core.windows.net/versions/snpEff_latest_core.zip && \
