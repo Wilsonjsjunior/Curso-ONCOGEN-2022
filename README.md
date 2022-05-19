@@ -1,4 +1,5 @@
 # Curso-ONCOGEN-2022
+
 Repositório criado para detalhar os passos do curso prático de bioinformática que será ministrado no ONCOGENE 2022.
 
 # Minicurso: Bioinformática aplicada a medicina de proceisão
@@ -27,10 +28,11 @@ sudo apt-get install git-all
 2. Use o comando abaixo:
 
 ```bash
-git clone https://github.com/genomika/snnbcourse.git 
-``` 
+git clone https://github.com/Wilsonjsjunior/Curso-ONCOGEN-2022.git
+```
 
 ## Como instalar conda
+
 * [Link ensinando como instalar](https://conda.io/docs/user-guide/install/index.html)
 
 ## Como rodar o container Docker
@@ -43,10 +45,10 @@ Faça a instalação do Docker de acordo com o seu sistema operacional:
 
 As instalações de outros sistemas operacionais podem ser encontradas [aqui](https://www.docker.com/community-edition).
 
-Após a instalação, faça download da imagem do curso:
+Após a instalação, faça a build da imagem no seu computador:
 
 ```bash
-docker pull wildergalvao/gnmk-snnb
+dodocker build -t oncogene -f dockerfile .
 ```
 
 Vá para o diretório do repositório do curso, e depois crie um container com a imagem baixada, utilizando o seguinte comando:
@@ -57,16 +59,6 @@ docker container run --rm -it -v $(pwd):/curso-genomika-snnb/snnbcourse wilderga
 
 No final, será criado um container com todos os softwares necessários para a execução prática do curso já instalados.
 
-## Outros cursos aqui no github, a maioria em inglês
-
-* [In-depth NGS Data Analysis Course](https://github.com/hbctraining/In-depth-NGS-Data-Analysis-Course)
-* [Applied Computational Genomics Course at UU: Spring 2018](https://github.com/quinlan-lab/applied-computational-genomics)
-* [JHU EN.601.749: Computational Genomics: Applied Comparative Genomics](https://github.com/schatzlab/appliedgenomics2018)
-* [NGS course by @imedina](https://github.com/ngs-course/ngs-course.github.io) - http://www.ngscourse.org/
-* [Computational Genomics by Ben Lang](https://github.com/BenLangmead/comp-genomics-class)
-* [Wrangling Genomics](https://github.com/datacarpentry/wrangling-genomics) - https://datacarpentry.org/wrangling-genomics/
-* [I Workshop de Verão de Bioinformática pela Genomika](https://github.com/genomika/summercourse)
-* [Introduction to second generation NGS data analysis](https://github.com/geocarvalho/ngs-studies/tree/master/biome-ngs)
-
 ### Mais informações:
+
 `wilson.jsilva@einstein.br` ou `wilson.jsilva@varsomics.com`
